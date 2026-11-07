@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T11:41:41.681Z",
+  "updatedAt": "2026-11-07T11:42:07.795Z",
   "games": [
+    {
+      "id": "survive-your-ideas-1",
+      "name": "Survive Your Ideas",
+      "placeId": 920587237,
+      "universeId": 383310974,
+      "creatorId": 295182,
+      "version": "2.0.0",
+      "pricing": "Premium",
+      "file": "survive-your-ideas-1.webp",
+      "sha": "f0959f0d4e425791b20e95cb6f914e6eff5e411e",
+      "managed": true
+    },
     {
       "id": "survive-your-ideas",
       "name": "Survive Your Ideas",
