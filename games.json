@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T11:42:26.388Z",
+  "updatedAt": "2026-11-07T12:28:19.653Z",
   "games": [
+    {
+      "id": "title-unavailable",
+      "name": "[TITLE UNAVAILABLE]",
+      "placeId": 111157237635882,
+      "universeId": 9388304346,
+      "creatorId": 0,
+      "version": "1.0.0",
+      "pricing": "Free & Premium",
+      "file": "title-unavailable.webp",
+      "sha": "1e729fe073b681344d53260c58d03a0a2a11b338",
+      "managed": true
+    },
     {
       "id": "survive-your-ideas",
       "name": "Survive Your Ideas",
